@@ -1,0 +1,13 @@
+http://10.1.33.29:8090/cdt/rest/TSMNTOnline/VerificaCEP/04316020
+
+http://10.1.33.29:8090/cdt/rest/TSMNTOnline/DadosNTOnline/0-0-teste
+ http://10.1.33.29:8090/cdt/rest/TSMNTOnline/StatusNotificacoes/283
+
+
+login: gerweb
+senha: CdT2ol%G7R
+
+
+        acesso banco do Brasil
+codigo =  283
+login =BB3351
